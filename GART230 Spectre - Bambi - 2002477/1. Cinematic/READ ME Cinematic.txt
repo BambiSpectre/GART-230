@@ -1,0 +1,6 @@
+Here you will provide your finished cinematic.
+
+Please provide the file ideally in mp4 as this will be file size friendly and have good compression
+
+You can use Adobe media encoder or After effects to do this.
+
